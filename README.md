@@ -77,11 +77,18 @@ CGPA: 8.5/10
 
 📜 Certifications
 Data Science & AI Certification
+
 Cisco Python Essentials
+
 Database Management Systems (DBMS)
+
 UiPath Robotic Process Automation
 
 
+
+
 🔗 Connect With Me
+
 LinkedIn: linkedin.com/in/varshini-suresh-r
+
 GitHub: github.com/varshinis25
